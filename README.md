@@ -58,8 +58,6 @@ The analysis explored factors including:
 - Job Involvement
 - Business Travel
 
-## Key Findings
-
 ## Python Visualizations
 
 ### Attrition Rate by Overtime
@@ -73,6 +71,8 @@ The analysis explored factors including:
 ### Attrition Rate by Age Group
 
 ![Attrition Rate by Age Group](agegroup_attrition.png)
+
+## Key Findings
 
 - Overall employee attrition rate was **16.12%**.
 - Employees working overtime had an attrition rate of **30.53%**, compared with **10.44%** among employees who did not work overtime.
