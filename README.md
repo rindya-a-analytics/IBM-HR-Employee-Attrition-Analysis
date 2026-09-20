@@ -60,6 +60,20 @@ The analysis explored factors including:
 
 ## Key Findings
 
+## Python Visualizations
+
+### Attrition Rate by Overtime
+
+![Attrition Rate by Overtime](overtime_attrition.png)
+
+### Attrition Rate by Job Role
+
+![Attrition Rate by Job Role](jobrole_attrition.png)
+
+### Attrition Rate by Age Group
+
+![Attrition Rate by Age Group](agegroup_attrition.png)
+
 - Overall employee attrition rate was **16.12%**.
 - Employees working overtime had an attrition rate of **30.53%**, compared with **10.44%** among employees who did not work overtime.
 - Sales Representatives had the highest attrition rate among the analyzed job roles at **39.76%**.
